@@ -22,7 +22,7 @@ const zakatFormula  = (e)=>{
     zakatResult.innerHTML = zakatValue  
 console.log("khuch tuo howa");
 
-
+// /
 } 
 
 calculation.addEventListener("click", zakatFormula)
